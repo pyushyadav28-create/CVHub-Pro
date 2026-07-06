@@ -90,20 +90,27 @@ CVHub-Pro/
 ```
 
 ---
-
 ## 📸 Screenshots
 
-Add screenshots here after uploading them.
+### Login
+![Login](assets/images/login.png)
 
-- Dashboard
-- Profile
-- Projects
-- Education
-- Experience
-- Skills
-- Resume
+### Dashboard
+![Dashboard](assets/images/dashboard.png)
 
----
+### Profile
+![Profile](assets/images/profile.png)
+
+### Education
+![Education](assets/images/education.png)
+
+### Experience
+![Experience](assets/images/experience.png)
+
+### Skills
+![Skills](assets/images/skills.png)
+
+
 
 ## 💡 Learning Outcomes
 
